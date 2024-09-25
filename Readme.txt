@@ -1,4 +1,4 @@
 Thanks for downloading this template!
 
-Template Name: 
+Template Name:
 License: https
